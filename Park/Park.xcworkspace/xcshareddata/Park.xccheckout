@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94F84EBD-33C0-40CC-80EC-D01CBD94B8E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Park</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E9CCA0B26D8BEC7791C75CAE19E264EE768DD06</key>
+		<string>https://github.com/jacobjiangwei/FreePark.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Park/Park.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E9CCA0B26D8BEC7791C75CAE19E264EE768DD06</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jacobjiangwei/FreePark.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E9CCA0B26D8BEC7791C75CAE19E264EE768DD06</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E9CCA0B26D8BEC7791C75CAE19E264EE768DD06</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FreePark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
